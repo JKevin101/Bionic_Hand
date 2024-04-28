@@ -16,11 +16,11 @@ This repository contains the Arduino code for simulating the flexion and extensi
 - Low-Pass Filter
 - Adafruit SSD1306 OLED Display
 
-## Circuit Design
-![Circuit Diagram](Docs/Schematic.png)
+## Schematic Design
+![Schematic Diagram](Docs/Schematic.png)
 
-## Schematic Diagram
-![Schematic Diagram](Docs/Visual.png)
+## Circuit Diagram
+![Circuit Diagram](Docs/Visual.png)
 
 ## Software Dependencies
 - `Servo.h` - For controlling the servo motors.
