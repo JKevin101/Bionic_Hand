@@ -27,6 +27,7 @@ Servo servo6;
 Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, -1);
 /***********************************************************************************************************/
 // Baseline for the pulse/spikes
+// Change value based on baseline reading in Arduino
 const int x = 150;
 /***********************************************************************************************************/
 
