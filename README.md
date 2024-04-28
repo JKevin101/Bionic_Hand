@@ -40,6 +40,3 @@ After setting up the hardware and uploading the code:
 
 ## Contributing
 Feel free to fork this repository and contribute by submitting pull requests or by creating issues for bugs and feature requests.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
