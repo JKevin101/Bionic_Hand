@@ -17,10 +17,10 @@ This repository contains the Arduino code for simulating the flexion and extensi
 - Adafruit SSD1306 OLED Display
 
 ## Circuit Design
-![Schematic Diagram](Schematic.png)
+![Circuit Diagram](Docs/Schematic.png)
 
 ## Schematic Diagram
-![Schematic Diagram](Visual.png)
+![Schematic Diagram](Docs/Visual.png)
 
 ## Software Dependencies
 - `Servo.h` - For controlling the servo motors.
