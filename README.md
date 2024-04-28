@@ -4,7 +4,7 @@
 This repository contains the Arduino code for simulating the flexion and extension of a bionic hand. The simulation utilizes five servo motors and MyoWare EMG sensors to mimic human hand movements based on muscle activity data.
 
 ## Features
-![Full Assembly](Docs/Full_Assembly.jpg)
+![Full Assembly](Docs/Full_Assembly.png)
 - **Servo Motor Control:** Controls five servo motors to simulate hand movements.
 - **EMG Signal Processing:** Uses MyoWare EMG sensors with a non-inverting amplifier (100x amplification) and a low-pass filter with a cutoff frequency of 28 Hz to detect and process muscle activity.
 - **OLED Display:** Utilizes an OLED display to provide real-time feedback on the status and readings from the EMG sensors.
